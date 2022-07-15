@@ -1,0 +1,2 @@
+instance_type = "t2.medium"
+ami = "ami-064dae9d6b26cb0b8"
